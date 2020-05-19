@@ -1,5 +1,0 @@
-seldon-core
-mlflow
-sklearn
-pandas
-boto3
